@@ -55,6 +55,8 @@
     "@heroicons/react": "1.0.6",
     "@hookform/resolvers": "2.8.10",
     "@identity.com/sol-did-client": "3.3.0",
+    "@iframe-resizer/child": "5.3.2",
+    "@iframe-resizer/parent": "5.3.2",
     "@jup-ag/referral-sdk": "0.1.5",
     "@marinade.finance/marinade-ts-sdk": "2.0.9",
     "@mean-dao/payment-streaming": "4.0.3",
@@ -190,7 +192,7 @@
     "@types/d3": "7.4.0",
     "@types/jest": "29.2.0",
     "@types/js-cookie": "3.0.2",
-    "@types/node": "14.14.25",
+    "@types/node": "22.10.3",
     "@types/react": "17.0.44",
     "@typescript-eslint/eslint-plugin": "8.1.0",
     "@typescript-eslint/parser": "8.1.0",
@@ -214,6 +216,7 @@
     "ts-loader": "9.3.1",
     "twin.macro": "2.4.0",
     "typescript": "5.5.4",
+    "webpack": "^5.0.0",
     "yarn-deduplicate": "6.0.0"
   },
   "babelMacros": {
